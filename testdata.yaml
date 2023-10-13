@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru/login
+address1: https://www.google.com/?hl=RU
+driver_path: geckodriver.exe
+sleep_time: 10
+name: 'test name'
+description: 'тут описание'
+сontent: 'основная информация'
+
+
+email: 'yana.shushkova.85@mail.ru'
+mypass: "dL33df!GE@d"
+reportname: "test.log"
